@@ -1,0 +1,16 @@
+{
+	"name": "adfdevdemoprojectnz",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05bf91ef-638e-4321-b538-bba77fd65741",
+		"tenantId": "7f4901c4-4d3d-4e84-9b88-8d875b5828a5"
+	}
+}
